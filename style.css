@@ -23,9 +23,10 @@ color: black;
   padding: 0;
   }
 
-  <section class=”escola”>
-<h2 class=”escola-titulo”>Sobre a Escola</h2>
-<p class=”escola-texto-um"></p>
-<p class=”escola-texto-dois”></p>
+.escola-imagem{
+  width: 17%;
+  }
 
-</section>
+.escola {
+    background-image: linear-gradient(#383D58,#4EBFE9);
+    }
