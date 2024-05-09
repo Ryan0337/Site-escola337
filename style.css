@@ -24,9 +24,34 @@ color: black;
   }
 
 .escola-imagem{
-  width: 17%;
+  width: 22%;
   }
 
 .escola {
-    background-image: linear-gradient(#383D58,#4EBFE9);
+    background-image: linear-gradient(#2848FF,#0098FF);
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+    }
+
+    .escola-conteudo{
+      width: 35%;
+    }
+
+    .escola-titulo{
+      padding: 24px 0;
+    }
+
+    body{
+      font-family: 'poppins',sans-serif;
+    }
+
+    .estudante-icone{
+      width: 24px;
+    }
+
+    .estudante-div{
+      text-align: center;
     }
