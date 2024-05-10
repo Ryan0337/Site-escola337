@@ -55,3 +55,21 @@ color: black;
     .estudante-div{
       text-align: center;
     }
+
+    .estudante-titulo{
+      text-align: center;
+      background-color: #2FB2E2;
+    }
+
+    .estudante-todos{
+      display: grid;
+      grid-template-columns: 25% 25% 25% 25%;
+      background-color: #52C1EA;
+    }
+
+      footer{
+        background-color: black;
+        padding: 15px 0;
+        text-align: center;
+      }
+
